@@ -1,0 +1,11 @@
+D:\TELKOM\Pembelajaran\Semester 4\KPL\TP\tpmod3-1\tpmod3-1\bin\Debug\tpmod3-1.exe.config
+D:\TELKOM\Pembelajaran\Semester 4\KPL\TP\tpmod3-1\tpmod3-1\bin\Debug\tpmod3-1.exe
+D:\TELKOM\Pembelajaran\Semester 4\KPL\TP\tpmod3-1\tpmod3-1\bin\Debug\tpmod3-1.pdb
+D:\TELKOM\Pembelajaran\Semester 4\KPL\TP\tpmod3-1\tpmod3-1\obj\Debug\tpmod3-1.csproj.AssemblyReference.cache
+D:\TELKOM\Pembelajaran\Semester 4\KPL\TP\tpmod3-1\tpmod3-1\obj\Debug\tpmod3-1.csproj.SuggestedBindingRedirects.cache
+D:\TELKOM\Pembelajaran\Semester 4\KPL\TP\tpmod3-1\tpmod3-1\obj\Debug\tpmod3_1.Form1.resources
+D:\TELKOM\Pembelajaran\Semester 4\KPL\TP\tpmod3-1\tpmod3-1\obj\Debug\tpmod3_1.Properties.Resources.resources
+D:\TELKOM\Pembelajaran\Semester 4\KPL\TP\tpmod3-1\tpmod3-1\obj\Debug\tpmod3-1.csproj.GenerateResource.cache
+D:\TELKOM\Pembelajaran\Semester 4\KPL\TP\tpmod3-1\tpmod3-1\obj\Debug\tpmod3-1.csproj.CoreCompileInputs.cache
+D:\TELKOM\Pembelajaran\Semester 4\KPL\TP\tpmod3-1\tpmod3-1\obj\Debug\tpmod3-1.exe
+D:\TELKOM\Pembelajaran\Semester 4\KPL\TP\tpmod3-1\tpmod3-1\obj\Debug\tpmod3-1.pdb
